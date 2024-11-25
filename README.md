@@ -21,6 +21,8 @@ Este proyecto es una aplicación de videollamadas punto a punto (P2P) utilizando
 
 ### 2. **Servidor de señalización**
 - Este proyecto requiere un servidor de señalización que soporte **Socket.IO**. Puedes usar un servidor Node.js básico o uno que ya tengas configurado.
+- Puedes encontrar un ejemplo de servidor de señalización  a continuación:
+  [Servidor de señalización]( https://github.com/albinrk10/webrtc_signalling_server_example.git)
 
 ### 3. **Servidor STUN/TURN (opcional)**
 - Este ejemplo utiliza servidores STUN de Google configurados en el proyecto.

@@ -25,6 +25,7 @@ Este proyecto es una aplicación de videollamadas punto a punto (P2P) utilizando
 ### 3. **Servidor STUN/TURN (opcional)**
 - Este ejemplo utiliza servidores STUN de Google configurados en el proyecto.
 - Para redes más restrictivas, puedes configurar tu propio servidor TURN.
+  
 
 ---
 
